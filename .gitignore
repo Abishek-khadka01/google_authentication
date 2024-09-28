@@ -1,0 +1,39 @@
+# Node.js-specific files and folders
+node_modules/
+npm-debug.log
+
+# OS-specific files and folders
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trash
+
+# IDE and editor settings
+.idea
+.vscode
+.atom
+.sublime-workspace
+
+# Build and compilation files
+*.o
+*.exe
+*.dll
+*.class
+
+# Log files and crash reports
+*.log
+*.crash
+*.dump
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Other files and folders
+*.pdf
+*.docx
+*.jpg
+
+# Environment files
+.env
